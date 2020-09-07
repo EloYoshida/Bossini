@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color: yellow;
+    border-block-color: black;
+    margin-bottom: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+h2#curso.curso{
+    text-align: center;
+}
+
+
+
+footer{
+    text-align: center;
+    margin-top: 300px;
+    padding: 5px;
+}
